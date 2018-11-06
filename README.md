@@ -7,9 +7,10 @@
 Usage: 
 
 ```hcl
-module "sp" { 
-  source: "git@github.com:CalvinRodo/az-service-principle-tf"
-  sp_name: "Service-Principle-Name"
+module "role" { 
+  source: "CalvinRodo/aks-role/azurerm"
+  version: "1.0.1"
+  role_name: "Service-Principle-Name"
 }
 ```
 
