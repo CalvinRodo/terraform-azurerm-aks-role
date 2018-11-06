@@ -1,7 +1,8 @@
 
 # Terraform Module for creating a least privileges role for an AKS Service Principle in Azure
 
-[![CircleCI](https://circleci.com/gh/CalvinRodo/terraform-azurerm-service-principle.svg?style=svg)](https://circleci.com/gh/CalvinRodo/terraform-azurerm-service-principle)
+[![CircleCI](https://circleci.com/gh/CalvinRodo/terraform-azurerm-aks-role.svg?style=svg)](https://circleci.com/gh/CalvinRodo/terraform-azurerm-aks-role)
+
 
 Usage: 
 
