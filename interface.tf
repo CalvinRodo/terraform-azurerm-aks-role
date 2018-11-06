@@ -1,8 +1,4 @@
-variable "sp_name" {
-  description = "Display name"
-}
-
-variable "sp_least_privilidge" {
-  description = "Use at own risk"
-  default     = false
+variable "role_name" {
+  description = "Name to give to the role being generated"
+  default     = "aks_sp_role"
 }
